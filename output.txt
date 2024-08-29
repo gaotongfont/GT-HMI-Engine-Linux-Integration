@@ -1,0 +1,30 @@
+.
+├── GT-HMI-Engine
+│   ├── driver
+│   ├── gt.h
+│   └── src
+├── gt_linux_lcd.c
+├── gt_linux_lcd.h
+├── gt_linux_touch.c
+├── gt_linux_touch.h
+├── main.c
+├── Makefile
+├── output.txt
+└── ui
+    ├── gt_init_screen_10.c
+    ├── gt_init_screen_11.c
+    ├── gt_init_screen_1.c
+    ├── gt_init_screen_2.c
+    ├── gt_init_screen_3.c
+    ├── gt_init_screen_4.c
+    ├── gt_init_screen_5.c
+    ├── gt_init_screen_6.c
+    ├── gt_init_screen_7.c
+    ├── gt_init_screen_8.c
+    ├── gt_init_screen_9.c
+    ├── gt_init_screen_home.c
+    ├── gt_ui.c
+    ├── gt_ui.h
+    └── gt_ui.mk
+
+4 directories, 23 files

@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "gt_linux_lcd.h": "c",
+        "optional": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "gt.h": "c",
+        "gt_ui.h": "c",
+        "gt_draw_blend_with_rgb565.h": "c",
+        "gt_gui_driver.h": "c",
+        "compare": "c",
+        "gt_math.h": "c",
+        "math.h": "c",
+        "gt_linux_touch.h": "c",
+        "pthread.h": "c"
+    }
+}
